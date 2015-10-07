@@ -1,0 +1,10 @@
+各个对象说明：
+
+BPNetworkClassification:BP网主体程序
+ConstantParameter:记录主要参数
+HOFormulaParameter:记录Hidden到Output的参数
+IHFormulaParameter:记录Input到Hidden的参数
+Launcher:启动BP网的运算
+LogRecord:用于记录日志
+NumberObjectL:用于输入和记录数字结构
+
